@@ -1,2 +1,1 @@
-ieeespectrum-ckeditor-templates
-===============================
+This directory should either be copied to the "plugins/templates" directory or the path to it specified via the 'config.templates' and 'config.templates_files' settings: http://docs.ckeditor.com/#!/api/CKEDITOR.config-cfg-templates
