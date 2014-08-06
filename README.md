@@ -1,0 +1,2 @@
+ieeespectrum-ckeditor-templates
+===============================
